@@ -28,7 +28,7 @@ TARGET_RADIUS = 15
 SMALL_RADIUS = 5
 LARGE_RADIUS = 40
 
-OUTPUT_DIR = "/home/claude/perimetry_gifs"
+OUTPUT_DIR = "/home/out"
 
 
 def create_frame():
